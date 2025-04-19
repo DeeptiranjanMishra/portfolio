@@ -63,8 +63,6 @@ function Hero() {
         </a>
       </div>
     </section>
-    <script src="particles.js"></script>
-    <script src="myjs.js"></script>
     
     </section>
   );
